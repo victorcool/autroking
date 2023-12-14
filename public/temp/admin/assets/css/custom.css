@@ -1,0 +1,27 @@
+.svg-loader{
+    height: 20px;
+    padding: 0;
+    vertical-align: top;
+  }
+  
+  .small-box .inner h3{
+    font-weight:2000 !important;
+    font-size: 20px !important;
+  }
+  
+  .svg__white svg #spinner
+  {
+      fill: #fff !important;
+  }
+
+  .primary_color{
+    color: rgb(250, 205, 138) !important;
+  }
+  .bg_primary{
+    background-color: rgb(250, 205, 138) !important;
+  }
+
+  .custom_grad_bg{
+    background: rgb(255,175,2);
+background: linear-gradient(90deg, rgba(255,175,2,1) 30%, rgba(209,140,10,1) 50%, rgba(70,67,33,0.9976365546218487) 100%);
+}

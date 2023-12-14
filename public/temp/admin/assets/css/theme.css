@@ -1,0 +1,34 @@
+.btn-shadow{
+   box-shadow: 2px 2px 5px grey !important;
+}
+.auth-page-sidebar {
+    padding: 0;
+    background-image: url(../images/cal.jpg) !important;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100%;
+    position: relative;
+    background-color:"#FFF" !important;
+}
+.view input,.view textarea{
+    border: none;
+    cursor: pointer;
+    background-color:rgb(231, 230, 230);
+    font-weight: bold;
+}
+
+.view .rw{
+    background: rgb(245, 243, 243)
+}
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+}
+.table-bordered td, .table-bordered th {
+    border: 1px solid #dee2e6;
+}
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+}
